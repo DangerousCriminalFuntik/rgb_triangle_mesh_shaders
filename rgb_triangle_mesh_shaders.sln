@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rgb_triangle_mesh_shaders", "rgb_triangle_mesh_shaders.vcxproj", "{66FEB5C8-4236-4F61-A015-3D7954A5BBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FEB5C8-4236-4F61-A015-3D7954A5BBBC}.Debug|x64.ActiveCfg = Debug|x64
+		{66FEB5C8-4236-4F61-A015-3D7954A5BBBC}.Debug|x64.Build.0 = Debug|x64
+		{66FEB5C8-4236-4F61-A015-3D7954A5BBBC}.Release|x64.ActiveCfg = Release|x64
+		{66FEB5C8-4236-4F61-A015-3D7954A5BBBC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B443B08-1061-490A-B514-8FB45C6359B5}
+	EndGlobalSection
+EndGlobal
